@@ -1,5 +1,5 @@
 #Dragon Slayer King
-*'Auteur: Nicolas'*
+*'Auteur: Nicolas & Steven'*
 
 Once upon a time, in a far-off land, there lived a kind and wise king named Arden. He ruled his kingdom with compassion and fairness, and his people loved him dearly.
 
@@ -18,3 +18,7 @@ Suddenly, a powerful gust of wind swept through the battlefield, lifting the dra
 From that day on, King Arden was known as the Dragon Slayer, and his bravery and wisdom were celebrated throughout the land. The dragon was never seen again, and the people lived in peace and prosperity for many years.
 
 And so, the legend of King Arden and the Dragon lives on, reminding us that even in the darkest of times, there is always hope.
+
+
+![Picture of a king](king.jpg "a king")
+![Picture of a dragon](dragon2.jpg "a dragon")
