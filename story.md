@@ -21,4 +21,4 @@ And so, the legend of King Arden and the Dragon lives on, reminding us that even
 
 
 ![Picture of a king](king.jpg "a king")
-![Picture of a dragon](dragon.jpg "a dragon")
+![Picture of a dragon](dragon2.jpg "a dragon")
